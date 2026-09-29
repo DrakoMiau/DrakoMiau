@@ -76,14 +76,31 @@ I use large language models (ChatGPT, Claude, and similar tools) daily to speed 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrakoMiau/DrakoMiau/main/profile/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/DrakoMiau/DrakoMiau/main/profile/stats-light.svg" alt="GitHub stats" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrakoMiau/DrakoMiau/main/profile/top-langs-dark.svg">
+    <img src="https://raw.githubusercontent.com/DrakoMiau/DrakoMiau/main/profile/top-langs-light.svg" alt="Top languages" height="170">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrakoMiau/DrakoMiau/main/profile/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/DrakoMiau/DrakoMiau/main/profile/snake-light.svg" alt="Contribution snake">
+  </picture>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 Always happy to connect, share ideas, or collaborate on ML, DevOps, or software projects.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/deiver-bernal)
 - 📧 debernalg@unal.edu.co
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrakoMiau&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrakoMiau&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160">
-</p>
