@@ -76,14 +76,6 @@ I use large language models (ChatGPT, Claude, and similar tools) daily to speed 
 
 ---
 
-## 🤖 AI-Assisted Development
-
-- Use LLMs for coding assistance, debugging, technical research, documentation, and workflow automation.
-- Apply AI-assisted workflows while keeping **code verification and analytical reasoning** as core practices.
-- Translate academic concepts into practical implementations with AI tools.
-
----
-
 ## 📫 Let's Connect
 
 Always happy to connect, share ideas, or collaborate on ML, DevOps, or software projects.
