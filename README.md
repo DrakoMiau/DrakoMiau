@@ -100,7 +100,12 @@ I use large language models (ChatGPT, Claude, and similar tools) daily to speed 
 
 ## 📫 Let's Connect
 
-Always happy to connect, share ideas, or collaborate on ML, DevOps, or software projects.
+<p align="center">
+  Always happy to connect, share ideas, or collaborate on ML, DevOps, or software projects.
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/deiver-bernal)
-- 📧 debernalg@unal.edu.co
+<p align="center">
+  <a href="https://www.linkedin.com/in/deiver-bernal"><img src="https://img.shields.io/badge/LinkedIn-Deiver_Bernal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Deiver Bernal"></a>
+  <a href="mailto:debernalg@unal.edu.co"><img src="https://img.shields.io/badge/Email-debernalg%40unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: debernalg@unal.edu.co"></a>
+  <a href="https://github.com/DrakoMiau"><img src="https://img.shields.io/badge/GitHub-DrakoMiau-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: DrakoMiau"></a>
+</p>
